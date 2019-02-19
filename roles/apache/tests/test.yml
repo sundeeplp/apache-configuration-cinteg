@@ -1,5 +1,5 @@
 ---
-- hosts: master
+- hosts: m
   remote_user: root
   roles:
     - apache
